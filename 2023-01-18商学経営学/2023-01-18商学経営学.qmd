@@ -12,7 +12,7 @@ format:
     footer: 神戸大学商学・経営学研究会
     smaller: true
     scrollable: true
-    theme: solarized
+    theme: simple
     fig-cap-location: top
     embed-resources: false
     chalkboard:
