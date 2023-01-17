@@ -333,7 +333,7 @@ Performance_{ip} =& \beta_1Switch_p + \beta_2 Target \: difficulty_{ip} + \beta_
 
 ::: {.column width="30%"}
 ::: {.callout-note appearance="minimal" icon="false"}
-## 変数の定義
+#### 変数の定義
 
 $Switch$
 
@@ -392,7 +392,7 @@ $$
 
 ::: {.column width="30%"}
 ::: {.callout-note appearance="minimal" icon="false"}
-## 変数の定義
+#### 変数の定義
 
 $Part-time (Full-time) \: work$
 
