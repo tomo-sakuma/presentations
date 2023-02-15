@@ -71,7 +71,7 @@ csl: the-accounting-review.csl
 ### How Flexible Targets Retain Balance in Managerial Actions
 
 -   David Erkens (CEIBS: China Europe International Business School），Jason Schloetzer (Georgetown University)との共著です。
--   査読誌に投稿中の論文です。
+-   ~~査読誌に投稿中の論文です~~。ついさっき落とされました。
 
 ::: columns
 ::: {.column width="33%"}
@@ -284,15 +284,14 @@ H
 
 -   123店舗，213名の店長
 
-### Descriptive Statistics 
+### Descriptive Statistics
 
 ::: columns
 ::: {.column width="30%"}
 -   制度変更(Switch)後，売上高は減少
 
-```{=html}
 <!-- -->
-```
+
 -   生産性($\frac{\text{売上高}-\text{材料費}}{\text{人件費}}$)は有意な変化なし
 :::
 
